@@ -1,4 +1,4 @@
-# Inam Zainab
+# Zainab Inam
 
 ## About Me
 
