@@ -10,8 +10,8 @@ I am currently learning different programming languages and development tools.
 
 | Category | Technologies |
 |----------|--------------|
-| Languages | C++, Python, Java |
-| Tools | Git, GitHub, VS Code |
+| Languages | C#, Python, Java |
+| Tools | Git, GitHub, VS Code, VS Community |
 
 ## Featured Projects
 
