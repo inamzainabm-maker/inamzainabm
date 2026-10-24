@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! My name is Inam Zainab. I am a Software Engineering student.
+Hello! My name is Inam Zainab. I am a Data Science student.
 I am interested in programming and software development.
 I am currently learning different programming languages and development tools.
 
@@ -23,11 +23,11 @@ A basic software development project.
 
 ## Education
 
-Software Engineering  
-University Name  
+Data Science  
+University of Engineering and Technology Lahore.  
 2026
 
 ## Contact
 
-- Email: your.email@example.com
+- Email: inamzainabm@gmail.com
 - GitHub: [@inamzainabm-maker](https://github.com/inamzainabm-maker)
